@@ -1,10 +1,10 @@
 # Examen Final Programación Web Avanzada
 
-Si
+Roque Rodríguez - 20185446 - ISC 10139694
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Repositorio del examen final de la asignatura "Programación Web Avanzada". 
 
 ## Getting Started
 
@@ -48,7 +48,7 @@ Roque Rodríguez
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.txt file for details
 
 ## Acknowledgments
 
